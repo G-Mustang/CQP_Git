@@ -4,7 +4,7 @@
 module ss1;
 
 initial begin
-
+    $display("ff");
 end
 
 endmodule
